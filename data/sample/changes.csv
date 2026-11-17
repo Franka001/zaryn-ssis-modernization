@@ -1,0 +1,6 @@
+change_seq,order_id,operation,amount_cents
+1,O100,U,10000
+2,O200,U,25000
+3,O100,U,12000
+4,O300,U,5000
+5,O200,D,0
